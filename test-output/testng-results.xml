@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-12T01:30:28 IST" name="Default suite" finished-at="2024-09-12T01:31:12 IST" duration-ms="44219">
+    <groups>
+    </groups>
+    <test started-at="2024-09-12T01:30:28 IST" name="Default test" finished-at="2024-09-12T01:31:12 IST" duration-ms="44219">
+      <class name="Test.ddrctest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.ddrctest@5bf0d49]" started-at="2024-09-12T01:30:28 IST" name="setup" finished-at="2024-09-12T01:30:33 IST" duration-ms="5647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.ddrctest@5bf0d49]" started-at="2024-09-12T01:30:34 IST" name="test1" data-provider="ddrcData" finished-at="2024-09-12T01:30:53 IST" duration-ms="18937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9630120120]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[arjun@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[15-04-2005]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Ernakulam]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA["C:\Users\HP\OneDrive\Desktop\6th sem\projectreport.pdf"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.ddrctest@5bf0d49]" started-at="2024-09-12T01:30:53 IST" name="test1" data-provider="ddrcData" finished-at="2024-09-12T01:31:12 IST" duration-ms="19002" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dona]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9876543210]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dona@example.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[20-08-1997]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Kochi]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA["C:\Users\HP\OneDrive\Desktop\6th sem\PHP Record.pdf"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- Test.ddrctest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
